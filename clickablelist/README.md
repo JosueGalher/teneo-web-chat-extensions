@@ -5,10 +5,10 @@ This extension can be used to display a list of clickable items:
 
 
 ## Installation
-To install, copy the `ClickablelistMessage.vue` file to the ` /src/components/messages/` folder of your teneo web chat project.
+To install, copy the `ClickablelistMessage.vue` file to the ` /src/components/messages/` folder of your [teneo web chat](https://github.com/artificialsolutions/teneo-web-chat) project.
 
 ## JSON
-The JSON that should be including in the `teneowebclient` output parameter to display a list of clickable items should look like this:
+The JSON that should be included in the `teneowebclient` output parameter to display a list of clickable items should look like this:
 ``` json
 {
     "type": "clickablelist",
@@ -45,4 +45,4 @@ The JSON that should be including in the `teneowebclient` output parameter to di
 }
 ```
 
-The `type` with value `clickablelist` is used to find the appropriate `.vue` extension file. The `list_item` should contain an list of item. For each item, the `title` is displayed in the list and the `postback` value is sent back to the teneo engine when the user selects the item.
+The `type` with value `clickablelist` is used to find the appropriate `.vue` extension file. `list_items` should contain a the list of items to display. For each item, the `title` is displayed in the list and the `postback` value is sent back to the Teneo engine when the user selects the item.
