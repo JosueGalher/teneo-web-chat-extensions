@@ -1,7 +1,7 @@
 # Display Clickable List
 This extension can be used to display a list of clickable items:
 
-<img src="https://raw.githubusercontent.com/artificialsolutions/teneo-web-chat-extensions/master/clickablelist/clickablelist_example.png?token=AHUExP_DzEYFamEmDcz12CeoQSwCJhdtks5cdQj9wA%3D%3D" width="250px">
+<img src="https://raw.githubusercontent.com/artificialsolutions/teneo-web-chat-extensions/master/clickablelist/clickablelist_screenshot.png?token=AHUExP_DzEYFamEmDcz12CeoQSwCJhdtks5cdQj9wA%3D%3D" width="250px">
 
 
 ## Installation
