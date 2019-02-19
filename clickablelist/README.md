@@ -45,4 +45,5 @@ The JSON that should be included in the `teneowebclient` output parameter to dis
 }
 ```
 
-The `type` with value `clickablelist` is used to find the appropriate `.vue` extension file. `list_items` should contain a the list of items to display. For each item, the `title` is displayed in the list and the `postback` value is sent back to the Teneo engine when the user selects the item.
+* The `type` with value `clickablelist` is used to find the appropriate `.vue` extension file. 
+* `list_items` should contain a the list of items to display. For each item, the `title` is displayed in the list and the `postback` value is sent back to the Teneo engine when the user selects the item.
