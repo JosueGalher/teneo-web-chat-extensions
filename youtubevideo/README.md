@@ -1,7 +1,7 @@
 # Display Youtube video
 This extension can be used to display a youtube video:
 
-<img src="https://github.com/artificialsolutions/teneo-web-chat-extensions/blob/master/clickablelist/clickablelist_screenshot.png" width="250px">
+<img src="https://raw.githubusercontent.com/artificialsolutions/teneo-web-chat-extensions/master/youtubevideo/youtubevideo_screenshot.png" width="250px">
 
 
 ## Installation
@@ -16,4 +16,4 @@ The JSON that should be included in the `teneowebclient` output parameter to dis
 }
 ```
 
-The `type` with value `youtubevideo` is used to find the appropriate `.vue` extension file. `video_url` should contain `embed` the url of the video. NOTE: you should include the `embed` url of the youtube video, not the regular one. The embed url looks like this: `https://www.youtube.com/embed/02-QOC9hNO4` where the last part is the video id.
+The `type` with value `youtubevideo` is used to find the appropriate `.vue` extension file. `video_url` should contain the `embed` url of the video. The embed url looks like this: `https://www.youtube.com/embed/02-QOC9hNO4` where the last part is the video id.
