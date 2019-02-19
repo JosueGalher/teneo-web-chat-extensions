@@ -16,4 +16,4 @@ The JSON that should be included in the `teneowebclient` output parameter to dis
 }
 ```
 
-The `type` with value `youtubevideo` is used to find the appropriate `.vue` extension file. `video_url` should contain the `embed` url of the video. The embed url looks like this: `https://www.youtube.com/embed/<VIDEO ID>` where the last part should be replaces with the id of the video.
+The `type` with value `youtubevideo` is used to find the appropriate `.vue` extension file. `video_url` should contain the `embed` url of the video. The embed url looks like this: `https://www.youtube.com/embed/<VIDEO ID>` where the last part should be replaced with the id of the video.
