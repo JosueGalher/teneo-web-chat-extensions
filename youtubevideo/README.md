@@ -1,7 +1,7 @@
 # Display Youtube video
 This extension can be used to display a youtube video:
 
-<img src="https://raw.githubusercontent.com/artificialsolutions/teneo-web-chat-extensions/master/youtubevideo/youtubevideo_screenshot.png" width="250px">
+<img src="https://github.com/artificialsolutions/teneo-web-chat-extensions/blob/master/youtubevideo/youtubevideo_screenshot.png?raw=true" width="250px">
 
 
 ## Installation
