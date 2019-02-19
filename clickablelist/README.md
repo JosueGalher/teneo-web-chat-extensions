@@ -3,6 +3,9 @@ This extension can be used to display a list of clickable items:
 
 ![Clickable list example](clickablelist_example.png){:width="100px"}
 
+<img src="https://raw.githubusercontent.com/artificialsolutions/teneo-web-chat-extensions/master/clickablelist/clickablelist_example.png?token=AHUExP_DzEYFamEmDcz12CeoQSwCJhdtks5cdQj9wA%3D%3D" width="100px">
+
+
 ## Installation
 To install, copy the `ClickablelistMessage.vue` file to the ` /src/components/messages/` folder of your teneo web chat project.
 
